@@ -6,7 +6,7 @@
 - apt-get install build-essentials
 # install instructions:
 - sudo apt-get install build-essentials
-- git clone https://github.com/seevik2580/udpxy-1.0.23-9.git
+- git clone https://github.com/astrit/udpxy-1.0.23-9.git
 - cd udpxy-1.0.23-9
 - make
 - make install
